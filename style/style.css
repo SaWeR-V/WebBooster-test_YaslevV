@@ -425,6 +425,7 @@ body {
     gap: 25px;
     max-width: 1182px;
     width: 100%;
+    overflow: hidden;
 }
 
 .advantage-card {
@@ -656,6 +657,7 @@ body {
     flex-wrap: wrap;
     max-width: 1295px;
     width: 100%;
+    overflow: hidden;
 }
 
 .stages-upper-row {
